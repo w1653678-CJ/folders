@@ -1,0 +1,50 @@
+MyWebsite
+│
+├── index.html
+├── tutorials.html
+└── tutorial1
+    └── tutorial1.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Web Publishing Site</title>
+</head>
+
+<body>
+
+    <h1>My Web Publishing Site</h1>
+
+    <p>Welcome to my Web Publishing website.</p>
+
+    <h2>Tutorials</h2>
+
+    <p>
+        <a href="tutorials.html">View My Tutorials</a>
+    </p>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tutorials</title>
+</head>
+
+<body>
+
+    <h1>Tutorials</h1>
+
+    <p>Welcome to my Web Publishing tutorials.</p>
+
+    <h2>Tutorial 1</h2>
+
+    <p>
+        <a href="tutorial1/tutorial1.html">Go to Tutorial 1</a>
+    </p>
+
+    <p>
+        <a href="index.html">Back to Home</a>
+    </p>
+
+</body>
+</html>
